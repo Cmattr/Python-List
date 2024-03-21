@@ -9,5 +9,7 @@ print(filtered_students)
 
 # Task 2 
 students_approved = ["John", "Doe", "Smith"]
+
+# Task 3
 print (students_approved)
 
